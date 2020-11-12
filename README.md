@@ -4,6 +4,6 @@ IPT Assignment submission 2, website with Front:html-css-js-jquery, Back:C#, .Ne
 
 ## Screenshots
 
-![Home](https://user-images.githubusercontent.com/33463845/97476632-741cad00-1970-11eb-9adf-b98405083008.png)
+![Capture0](https://user-images.githubusercontent.com/33463845/98970799-2daf7c80-2532-11eb-866a-7946082e80fc.PNG)
 
-![About](https://user-images.githubusercontent.com/33463845/97476140-e50f9500-196f-11eb-9276-72fffce34b04.png)
+![Captur1e](https://user-images.githubusercontent.com/33463845/98970806-2f794000-2532-11eb-8059-bc9d4f6ac5db.PNG)
